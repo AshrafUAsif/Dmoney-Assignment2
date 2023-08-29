@@ -29,10 +29,10 @@
 - Git
 
 ## Documentation
-https://documenter.getpostman.com/view/29168443/2s9Y5Zv2CE 
+- https://documenter.getpostman.com/view/29168443/2s9Y5Zv2CE 
 
 ## API collection:
-https://api.postman.com/collections/29168443-c95c0bd2-6570-4ed4-8704-c12775bfebf3?access_key=PMAT-01H8YMNVDNBXRTETTTQFMTMTS5 
+- https://api.postman.com/collections/29168443-c95c0bd2-6570-4ed4-8704-c12775bfebf3?access_key=PMAT-01H8YMNVDNBXRTETTTQFMTMTS5 
 
 ## Test Case Link
 - https://docs.google.com/spreadsheets/d/1MHGfW4fE863r4xrFcATB8GxDDefcctY1mPjsVUyy57A/edit?usp=sharing
