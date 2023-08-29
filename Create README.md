@@ -35,9 +35,10 @@ https://documenter.getpostman.com/view/29168443/2s9Y5Zv2CE
 https://api.postman.com/collections/29168443-c95c0bd2-6570-4ed4-8704-c12775bfebf3?access_key=PMAT-01H8YMNVDNBXRTETTTQFMTMTS5 
 
 ## Test Case Link
-
+- https://docs.google.com/spreadsheets/d/1MHGfW4fE863r4xrFcATB8GxDDefcctY1mPjsVUyy57A/edit?usp=sharing
 
 ## Bug Report Link
+- https://docs.google.com/spreadsheets/d/1rePY_ZmuwrwxPMvrbEI_ssKxzBRlmCzDOWPyJCMoIcI/edit?usp=sharing
 
 ## Screenshot of Newman Run Dashboard
 ![image](https://github.com/AshrafUAsif/Dmoney-Assignment2/assets/108550504/be83a34c-d427-4d5f-a4c9-a51cecbc0972)
